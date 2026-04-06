@@ -42,8 +42,15 @@ output_result.PNG
 root_solver_plot.png
 
 ## How to Run
-1. Install required libraries
-2. Run the program
+1. Install required libraries(bash)
+   - pip install numpy
+   - pip install sympy
+   - pip install matplotlib
+3. Run the program
+   - python root_solver.py
+
+## Motivation
+This project was developed as part of my research preparation in numerical analysis and computational mathematics. The goal is to provide a robust tool for solving nonlinear equations while evaluating the efficiency, accuracy, and convergence rates of classic numerical techniques—specifically the Newton-Raphson, Bisection, and Secant methods.
 
 ## Author
 Md Asaduzzaman
